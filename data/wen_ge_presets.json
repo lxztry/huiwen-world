@@ -1,0 +1,44 @@
+{
+  "presets": [
+    {
+      "id": "scholar",
+      "name": "书香门第",
+      "emoji": "📜",
+      "background": "世家子弟，略通诗书，性格内敛",
+      "scenes": ["红楼梦系剧情", "府邸对话"]
+    },
+    {
+      "id": "wanderer",
+      "name": "江湖游侠",
+      "emoji": "⚔️",
+      "background": "四海为家，仗剑天涯，洒脱不羁",
+      "scenes": ["水浒系剧情", "绿林场景"]
+    },
+    {
+      "id": "strategist",
+      "name": "谋士策士",
+      "emoji": "🎓",
+      "background": "运筹帷幄，熟悉兵法，有政治抱负",
+      "scenes": ["三国系剧情", "沙盘推演"]
+    },
+    {
+      "id": "general",
+      "name": "热血将军",
+      "emoji": "🔥",
+      "background": "征战沙场，忠义两全，性情刚烈",
+      "scenes": ["战争场景", "将帅对话"]
+    },
+    {
+      "id": "noble_lady",
+      "name": "世家闺秀",
+      "emoji": "🌸",
+      "background": "出身名门，聪慧敏感，懂人情世故",
+      "scenes": ["大观园场景", "后宅人际"]
+    }
+  ],
+  "customize_questions": [
+    "你最看重什么？义气 / 爱情 / 功名 / 自由",
+    "你更喜欢宁静还是热闹？",
+    "你会主动出击还是以静制动？"
+  ]
+}
